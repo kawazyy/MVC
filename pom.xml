@@ -5,16 +5,16 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.7.0</version>
+		<version>2.7.12</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.fatecrl</groupId>
-	<artifactId>mvcdemo</artifactId>
+	<groupId>com.example</groupId>
+	<artifactId>AtividadeMVC</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>mvcdemo</name>
-	<description>Entendo a arquitetura MVC</description>
+	<name>AtividadeMVC</name>
+	<description>Demo project for Spring Boot and MVC</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
